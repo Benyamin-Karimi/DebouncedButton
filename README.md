@@ -1,7 +1,7 @@
 # Debounced Button
 DebouncedButton is a lightweight class for eliminating button bounce in Arduino projects. By simply creating an instance of this class, you can handle button states without manually implementing debounce logic.
 
-## 🎯Features:
+## 🎯 Features:
 - Customizable pin assignment
 
 - Supports both `INPUT` and `INPUT_PULLUP` modes

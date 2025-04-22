@@ -8,7 +8,7 @@ DebouncedButton is a lightweight class for eliminating button bounce in Arduino 
 
 - Adjustable debounce delay
 
-- Compatible with Arduino IDE, PlatformIO, and VS Code (with PlatformIO extension)
+- Compatible with **Arduino IDE**, **PlatformIO**, and **VS Code** (with PlatformIO extension)
 
 ## 🧪 Example Usage:
 
